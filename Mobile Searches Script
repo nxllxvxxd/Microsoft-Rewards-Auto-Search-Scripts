@@ -1,0 +1,64 @@
+#Here Is A Demonstration On How To Use This Script: https://youtu.be/ntUn2Ee8hi4
+
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com/
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com/fd/auth/signout?provider=windows_live_id&return_url=http%3a%2f%2fwww.bing.com%2f%3fwlexpsignin%3d1&sig=28E3132E4F6960E0181F1A854E7E61DD
+WAIT SECONDS= 2
+URL GOTO=https://www.bing.com/fd/auth/signin?action=interactive&provider=windows_live_id&return_url=http%3a%2f%2fwww.bing.com%2f%3fwlexpsignin%3d1&src=EXPLICIT&sig=28E3132E4F6960E0181F1A854E7E61DD
+WAIT SECONDS= 2
+TAG POS=8 TYPE=DIV ATTR=TXT:Email,<SP>phone,<SP>or<SP>Skype<SP>name
+TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT=#Insert Email Here
+SET !ENCRYPTION NO
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT=#Insert Password Here
+WAIT SECONDS= 2
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com
+WAIT SECONDS= 2
+TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=alpha
+WAIT SECONDS= 2
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:sb_form ATTR=ID:sbBtn
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=youtube
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=facebook
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=twitter
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=gmail
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xfinity
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=chrome
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=star+wars
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=eminem
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=dr+dre
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=yelawolf
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=twitch
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xbox+live
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=playstation
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=nintendo
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=family+guy
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=wikipedia
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=ununpentium
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=wierdest+elements
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=apple+earpods
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=adsense
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com/
+WAIT SECONDS= 2
