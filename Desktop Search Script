@@ -10,8 +10,6 @@ URL GOTO=https://login.live.com/logout.srf?ct=1477511723&rver=6.7.6631.0&lc=1033
 WAIT SECONDS= 2
 URL GOTO=https://www.bing.com/fd/auth/signin?action=interactive&provider=windows_live_id&return_url=http%3a%2f%2fwww.bing.com%2f%3fwlexpsignin%3d1&src=EXPLICIT&sig=28E3132E4F6960E0181F1A854E7E61DD
 WAIT SECONDS= 2
-TAG POS=8 TYPE=DIV ATTR=TXT:Email,<SP>phone,<SP>or<SP>Skype<SP>name
-WAIT SECONDS= 2
 TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT=#Edit Here And Put Your Email
 SET !ENCRYPTION NO
 TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT=#Edit Here And Put The Password To Your Email
