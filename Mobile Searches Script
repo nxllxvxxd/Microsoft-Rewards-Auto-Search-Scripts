@@ -7,7 +7,6 @@ URL GOTO=http://www.bing.com/fd/auth/signout?provider=windows_live_id&return_url
 WAIT SECONDS= 2
 URL GOTO=https://www.bing.com/fd/auth/signin?action=interactive&provider=windows_live_id&return_url=http%3a%2f%2fwww.bing.com%2f%3fwlexpsignin%3d1&src=EXPLICIT&sig=28E3132E4F6960E0181F1A854E7E61DD
 WAIT SECONDS= 2
-TAG POS=8 TYPE=DIV ATTR=TXT:Email,<SP>phone,<SP>or<SP>Skype<SP>name
 TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT=#Insert Email Here
 SET !ENCRYPTION NO
 TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT=#Insert Password Here
