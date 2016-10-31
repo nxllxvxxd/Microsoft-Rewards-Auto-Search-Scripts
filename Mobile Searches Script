@@ -56,8 +56,6 @@ WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=wierdest+elements
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=apple+earpods
-WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=adsense
 WAIT SECONDS= 2
 URL GOTO=http://www.bing.com/
 WAIT SECONDS= 2
