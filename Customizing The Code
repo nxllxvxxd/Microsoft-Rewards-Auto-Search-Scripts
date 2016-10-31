@@ -1,0 +1,7 @@
+To customize the amount of time between searches and what the search terms contain you will want to edit the <a href="https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Mobile%20Searches%20Script">Mobile Searches Script</a> and the <a href="https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Desktop%20Search%20Script">Desktop Searches Script</a>.
+
+To edit the search terms find any of the lines that say: URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=youtube
+
+And change the word or words at the end. For spaces you will have to put a +
+
+And to edit the amount of time between searches find WAIT SECONDS= 2 and replace the 
