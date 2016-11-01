@@ -1,4 +1,7 @@
 # Bing-Rewards-Script
+[![Twitter](https://img.shields.io/twitter/follow/Darth4212.svg?style=social)](https://twitter.com/Darth4212)
+
+
 This is a script for Bing Rewards searches. You need to have Google Chrome and the extensions iMacros and User-Agent Switcher installed.
 For the mobile searches you will have to use the Microsoft Edge Windows Phone User Agent.
 
