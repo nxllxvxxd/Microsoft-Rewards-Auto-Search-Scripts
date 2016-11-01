@@ -14,7 +14,7 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Drop
 
-Editing The Code
+###### Editing The Code
 
 To customize the amount of time between searches and what the search terms contain you will want to edit the [Mobile Searches Script](https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Mobile%20Searches%20Script) and the [Desktop Searches Script](https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Desktop%20Search%20Script).
 
