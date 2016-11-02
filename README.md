@@ -24,13 +24,18 @@ To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Dro
 
 ##### Setup
 
-Here is video on how to setup the Mobile Searches Script:
+Here is how to setup the [Mobile Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Mobile%20Searches%20Script) 
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/ntUn2Ee8hi4" frameborder="0" allowfullscreen></iframe></html>)
+![](https://7phccw.bn1301.livefilestore.com/y3mLKyGLETiVnu60VzNR8b4AEcs1fC-e7-x26LNUt-ZbwrhefSM6XdngdEfccsdzoZXLfxlKq-yXS5_dgjdt1UsPvrx-Cjry0cxPXf_cU3JNKR3HRJ0PHVbi3bHrN6y6MTXyOGqczolowtjRA8u8__7tQys0nx3r0ovcjBKOIsDBFk?width=1152&height=720&cropmode=none)
+
+And here is how to setup the [Desktop Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Desktop%20Search%20Script):
+
+![](
+
 
 ##### Editing The Code
 
-To customize the amount of time between searches and what the search terms contain you will want to edit the [Mobile Searches Script](https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Mobile%20Searches%20Script) and the [Desktop Searches Script](https://github.com/Darth4212/Bing-Rewards-Script/blob/master/Desktop%20Search%20Script).
+To customize the amount of time between searches and what the search terms contain you will want to edit the [Mobile Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Mobile%20Searches%20Script) and the [Desktop Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Desktop%20Search%20Script).
 
 To edit the search terms find any of the lines that say: URL GOTO= http://www.bing.com/search?FORM=U312DF&PC=U312&q=Whatever+you+want+your+search+term+to+be
 
