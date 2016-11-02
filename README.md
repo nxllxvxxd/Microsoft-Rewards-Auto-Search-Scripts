@@ -26,7 +26,7 @@ To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Dro
 
 Here is video on how to setup the Mobile Searches Script:
 
-(h<iframe width="560" height="315" src="https://www.youtube.com/embed/ntUn2Ee8hi4" frameborder="0" allowfullscreen></iframe>)
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/ntUn2Ee8hi4" frameborder="0" allowfullscreen></iframe>)
 
 ##### Editing The Code
 
