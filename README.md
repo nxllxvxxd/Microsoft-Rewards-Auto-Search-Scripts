@@ -26,7 +26,7 @@ To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Dro
 
 Here is how to setup the [Mobile Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Mobile%20Searches%20Script) 
 
-[![(https://1drv.ms/i/s!ArB3cdCTYfjwoEO8R5rFOOJ_nMfj)](www.google.com)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 And here is how to setup the [Desktop Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Desktop%20Search%20Script):
 
