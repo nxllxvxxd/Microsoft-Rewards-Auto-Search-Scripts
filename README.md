@@ -18,7 +18,7 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 [User-Agent Switcher](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8)
 
-![](https://lh3.googleusercontent.com/Y-uvYRYxDoFd6WEytMwtNeFxszgkAjPwlLUKGmAvhkSkVnD1CPh2zpCd2FnVi3RsgxSWYpD_bQ=s26-h26-e365-rw)
+<img src="https://lh3.googleusercontent.com/Y-uvYRYxDoFd6WEytMwtNeFxszgkAjPwlLUKGmAvhkSkVnD1CPh2zpCd2FnVi3RsgxSWYpD_bQ=s26-h26-e365-rw">
 
 To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Drop
 
