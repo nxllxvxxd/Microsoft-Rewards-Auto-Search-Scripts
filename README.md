@@ -10,7 +10,9 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR4)
 
+<div style="text-align:center" markdown="1">
 [![](https://www.google.com/chrome/assets/common/images/chrome_logo_2x.png?mmfb=a5234ae3c4265f687c7fffae2760a907 "Google Chrome")](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40)
+</div>
 
 [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
@@ -37,7 +39,7 @@ And here is how to setup the [Desktop Searches Script](https://github.com/Darth4
 
 To customize the amount of time between searches and what the search terms contain you will want to edit the [Mobile Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Mobile%20Searches%20Script) and the [Desktop Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Desktop%20Search%20Script).
 
-To edit the search terms find any of the lines that say: URL GOTO= http://www.bing.com/search?FORM=U312DF&PC=U312&q=Whatever+you+want+your+search+term+to+be
+To edit the search terms find any of the lines that say: `URL GOTO= http://www.bing.com/search?FORM=U312DF&PC=U312&q=Whatever+you+want+your+search+term+to+be`
 
 And change the word or words at the end. For spaces you will have to put a +
 
