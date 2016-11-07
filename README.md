@@ -26,11 +26,11 @@ To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Dro
 
 Here is how to setup the [Mobile Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Mobile%20Searches%20Script) 
 
-![](https://github.com/Darth4212/Img-Paste/blob/master/Mobile-Search-Macro-Setup.gif?raw=true "Mobile Search Setup")
+[![](https://github.com/Darth4212/Img-Paste/blob/master/Mobile-Search-Macro-Setup.gif?raw=true "Mobile Search Setup")](https://www.youtube.com/watch?v=ntUn2Ee8hi4)
 
 And here is how to setup the [Desktop Searches Script](https://github.com/Darth4212/Microsoft-Rewards-Auto-Search-Scripts/blob/master/Desktop%20Search%20Script):
 
-![](https://github.com/Darth4212/Img-Paste/blob/master/Bing%20Rewards%20Macro%20Setup.gif?raw=true "Desktop Search Setup")
+[![](https://github.com/Darth4212/Img-Paste/blob/master/Bing%20Rewards%20Macro%20Setup.gif?raw=true "Desktop Search Setup")](https://www.youtube.com/watch?v=kuduqa_3FZg)
 
 
 ##### Editing The Code
