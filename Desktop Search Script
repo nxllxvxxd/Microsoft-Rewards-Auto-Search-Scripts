@@ -10,11 +10,11 @@ URL GOTO=https://login.live.com/logout.srf?ct=1478526940&rver=6.7.6631.0&lc=1033
 WAIT SECONDS= 2
 URL GOTO=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1478526960&rver=6.7.6631.0&wp=MBI&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1&lc=1033&id=264960
 WAIT SECONDS= 2
-TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT= **Put Your Email Here**
+TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT= ** Put Your Email Here **
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
 WAIT SECONDS= 2
 SET !ENCRYPTION NO
-TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT= **Put Your Password Here**
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT= ** Put Your Password Here **
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
 WAIT SECONDS= 2
 TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=alpha
