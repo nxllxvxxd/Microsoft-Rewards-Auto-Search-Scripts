@@ -10,15 +10,15 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR4)
 
-![](https://www.google.com/chrome/assets/common/images/chrome_logo_2x.png?mmfb=a5234ae3c4265f687c7fffae2760a907)
+[![](https://www.google.com/chrome/assets/common/images/chrome_logo_2x.png?mmfb=a5234ae3c4265f687c7fffae2760a907 "Google Chrome")](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40)
 
 [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
-![](http://tse1.mm.bing.net/th?&id=OIP.M448fa9dc1f7281af584113114284a090o0&w=198&h=175&c=0&pid=1.9&rs=0&p=0&r=0)
+[![](http://tse1.mm.bing.net/th?&id=OIP.M448fa9dc1f7281af584113114284a090o0&w=198&h=175&c=0&pid=1.9&rs=0&p=0&r=0 "iMacros")](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
 [User-Agent Switcher](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8)
 
-<img src="https://lh3.googleusercontent.com/Y-uvYRYxDoFd6WEytMwtNeFxszgkAjPwlLUKGmAvhkSkVnD1CPh2zpCd2FnVi3RsgxSWYpD_bQ=s26-h26-e365-rw">
+[![](https://lh3.googleusercontent.com/Y-uvYRYxDoFd6WEytMwtNeFxszgkAjPwlLUKGmAvhkSkVnD1CPh2zpCd2FnVi3RsgxSWYpD_bQ=s26-h26-e365-rw "User Agent Switcher)](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8)
 
 To Install The Extensions Go To: chrome://extensions/ Then Drag The File And Drop
 
