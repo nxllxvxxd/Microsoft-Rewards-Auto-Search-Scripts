@@ -10,10 +10,8 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR4)
 
-<div style="text-align:center" markdown="1">
-<a href="https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40"><img src="https://www.google.com/chrome/assets/common/images/chrome_logo_2x.png?mmfb=a5234ae3c4265f687c7fffae2760a907(https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40" align="absmiddle">
-</a>
-</div>
+[<img src="https://www.google.com/chrome/assets/common/images/chrome_logo_2x.png?mmfb=a5234ae3c4265f687c7fffae2760a907(https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40">
+](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40)
 
 [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
