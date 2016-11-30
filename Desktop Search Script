@@ -4,7 +4,6 @@
 
 #All You Will Have To Do Is Play The Macro Everyday Because There Is No Way To Make It Run Automatically
 
-```
 SET firstEmail "Put Your Email Here Without Quotes"
 SET firstPassword "Put Your Password Here Without Quotes"
 SET defaultUseragent "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
@@ -155,4 +154,4 @@ WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=bad+meets+evil
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/
-```
+
