@@ -4,17 +4,23 @@
 
 #All You Will Have To Do Is Play The Macro Everyday Because There Is No Way To Make It Run Automatically
 
+```
+SET firstEmail "Put Your Email Here Without Quotes"
+SET firstPassword "Put Your Password Here Without Quotes"
+SET defaultUseragent "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+SET mobileUseragent "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 735) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Mobile Safari/537.36 Edge/12.0"
+SET !TIMEOUT_PAGE 600
 URL GOTO=http://www.bing.com/
 WAIT SECONDS= 2
 URL GOTO=https://login.live.com/logout.srf?ct=1478526940&rver=6.7.6631.0&lc=1033&id=264960&ru=http:%2F%2Fwww.bing.com%2Fpassport.aspx%3Frequrl%3Dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1
 WAIT SECONDS= 2
 URL GOTO=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1478526960&rver=6.7.6631.0&wp=MBI&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1&lc=1033&id=264960
 WAIT SECONDS= 2
-TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT= ** Put Your Email Here **
+TAG POS=1 TYPE=INPUT:EMAIL FORM=ID:i0281 ATTR=ID:i0116 CONTENT={{firstEmail}}
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
 WAIT SECONDS= 2
 SET !ENCRYPTION NO
-TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT= ** Put Your Password Here **
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT={{firstPassword}}
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
 WAIT SECONDS= 2
 TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=alpha
@@ -23,9 +29,9 @@ TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:sb_form ATTR=ID:sb_form_go
 WAIT SECONDS= 2
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=youtube
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=facebook
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=google+glass
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=twitter
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=google+pixel
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=gmail
 WAIT SECONDS= 4
@@ -41,11 +47,11 @@ URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=dr+dre
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=yelawolf
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=twitch
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=why+does+the+us+still+observe+daylight+savings+time
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xbox+live
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=what+is+a+useragent
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=playstation
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=darth4212
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=nintendo
 WAIT SECONDS= 4
@@ -71,9 +77,76 @@ URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=cortana
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=microsoft+edge
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xbox+live+rewards
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=call+of+duty
 WAIT SECONDS= 4
-URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xbox+live+ambassadors
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=why+android+is+better+than+iphone
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=steam
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=d12
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=bad+meets+evil
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/	 
+SET !USERAGENT {{mobileUseragent}}
+URL GOTO=http://www.bing.com
+TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=alpha
+WAIT SECONDS= 2
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:sb_form ATTR=ID:sbBtn
+WAIT SECONDS= 2
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=youtube
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=google+glass
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=google+pixel
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=gmail
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=xfinity
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=chrome
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=star+wars
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=eminem
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=dr+dre
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=yelawolf
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=why+does+the+us+still+observe+daylight+savings+time
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=what+is+a+useragent
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=darth4212
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=nintendo
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=family+guy
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=wikipedia
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=ununpentium
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=wierdest+elements
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=apple+earpods
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=adsense
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=daktech
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=intel+drivers
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=windows+10
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=cortana
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=microsoft+edge
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=call+of+duty
+WAIT SECONDS= 4
+URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=why+android+is+better+than+iphone
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=steam
 WAIT SECONDS= 4
@@ -82,3 +155,4 @@ WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/search?FORM=U312DF&PC=U312&q=bad+meets+evil
 WAIT SECONDS= 4
 URL GOTO=http://www.bing.com/
+```
