@@ -1,12 +1,10 @@
-# Bing-Rewards-Script
+# Microsoft-Rewards-Macro
 [![Twitter](https://img.shields.io/twitter/follow/Darth4212.svg?style=social)](https://twitter.com/Darth4212)
 
 [<img src="https://6qhccw.bn1301.livefilestore.com/y3m9xNm3EGoOR0WajyrVYO5RoZvxYny5QjeuKloftTWKMUYNL7MQYSLBSI_et0R03VOTNpbx6rOjsy0B5LuWN6SKc9512XFbvyAdz8_1c8d1PDA1l4Kx4lhS9H-hsZQD-Y-028g08JrpMHOk_bjH51c9ocPhq1jh099eCn-fsBxGoI?width=300&height=150&cropmode=none" align="middle">](https://account.microsoft.com/rewards)
 
 
-This is a script for Bing Rewards searches. You need to have [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40) and the extensions [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc) and [User-Agent Switcher](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8) installed.
-
-For the mobile searches you will have to use the Microsoft Edge Windows Phone User Agent.
+This is a script for Bing Rewards searches. You need to have [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40) and the extension [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc) installed
 
 [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR4)
 
@@ -16,9 +14,6 @@ For the mobile searches you will have to use the Microsoft Edge Windows Phone Us
 
 [<img src="https://github.com/Darth4212/Img-Paste/blob/master/im.jpg?raw=true" align="center">](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
-[User-Agent Switcher](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8)
-
-[<img src="https://github.com/Darth4212/Img-Paste/blob/master/th-ConvertImage.jpg?raw=true" align="center">](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214159&authkey=AJs_4OjOsT6y8D8)
 
 ##### Setup
 
