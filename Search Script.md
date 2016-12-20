@@ -7,6 +7,8 @@ To add multiple emails under 'Login Variables add more in this fashion
 
 All You Will Have To Do Is Play The Macro Everyday Because There Is No Way To Make It Run Automatically
 
-'Login Variables
-SET firstEmail PUTEMAILHERE
-SET firstPassword PUTPASSWORDHERE
+`'Login Variables`
+
+`SET firstEmail PUTEMAILHERE`
+
+`SET firstPassword PUTPASSWORDHERE`
