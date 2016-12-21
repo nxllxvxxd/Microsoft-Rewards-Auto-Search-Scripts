@@ -21,7 +21,7 @@ All You Will Have To Do Is Play The Macro Everyday Because There Is No Way To Ma
 
 `'Website Variables`
 
-`SET signOut https://login.live.com/logout.srf?ct=1478526940&rver=6.7.6631.0&lc=1033&id=264960&ru=http:%2F%2Fwww.bing.com%2Fpassport.aspx%3Frequrl%3Dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1
+SET signOut https://login.live.com/logout.srf?ct=1478526940&rver=6.7.6631.0&lc=1033&id=264960&ru=http:%2F%2Fwww.bing.com%2Fpassport.aspx%3Frequrl%3Dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1
 
 SET signIn https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1478526960&rver=6.7.6631.0&wp=MBI&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1&lc=1033&id=264960
 
@@ -375,5 +375,5 @@ WAIT SECONDS= 4
 
 URL GOTO={{badMeetsevil}}
 
-SET !USERAGENT {{defaultUseragent}}`
+SET !USERAGENT {{defaultUseragent}}
 
