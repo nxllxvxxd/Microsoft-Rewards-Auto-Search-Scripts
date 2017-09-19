@@ -25,6 +25,8 @@ SET signOut https://login.live.com/logout.srf?ct=1478526940&rver=6.7.6631.0&lc=1
 
 SET signIn https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1478526960&rver=6.7.6631.0&wp=MBI&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttp%253a%252f%252fwww.bing.com%252f%253fwlexpsignin%253d1&lc=1033&id=264960
 
+SET authPoint https://www.bing.com/fd/auth/signin?action=interactive&provider=windows_live_id&return_url=https%3a%2f%2fwww.bing.com%2f%3fwlexpsignin%3d1&src=EXPLICIT&sig=145C7043403C6300018A7AA741D062C9
+
 SET mobileUseragent "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 735) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Mobile Safari/537.36 Edge/12.0"
 
 SET defaultUseragent "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
@@ -118,6 +120,10 @@ TAG POS=1 TYPE=INPUT:PASSWORD FORM=ID:i0281 ATTR=ID:i0118 CONTENT={{firstPasswor
 TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:i0281 ATTR=ID:idSIButton9
 
 WAIT SECONDS= 2
+
+URL GOTO={{authPoint}}
+
+WAIT SECONDS=5
 
 TAG POS=1 TYPE=INPUT:SEARCH FORM=ID:sb_form ATTR=ID:sb_form_q CONTENT=alpha
 
