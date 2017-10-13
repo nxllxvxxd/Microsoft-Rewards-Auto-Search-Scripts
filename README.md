@@ -1,7 +1,7 @@
 # Microsoft-Rewards-Macro
 [![Twitter](https://img.shields.io/twitter/follow/Darth4212.svg?style=social)](https://twitter.com/Darth4212)
 
-[<imgsrc="https://6qhccw.bn1301.livefilestore.com/y3m9xNm3EGoOR0WajyrVYO5RoZvxYny5QjeuKloftTWKMUYNL7MQYSLBSI_et0R03VOTNpbx6rOjsy0B5LuWN6SKc9512XFbvyAdz8_1c8d1PDA1l4Kx4lhS9H-hsZQD-Y-028g08JrpMHOk_bjH51c9ocPhq1jh099eCn-fsBxGoI?width=300&height=150&cropmode=none" align="middle">](https://account.microsoft.com/rewards)
+![<img src="https://6qhccw.bn1301.livefilestore.com/y3m9xNm3EGoOR0WajyrVYO5RoZvxYny5QjeuKloftTWKMUYNL7MQYSLBSI_et0R03VOTNpbx6rOjsy0B5LuWN6SKc9512XFbvyAdz8_1c8d1PDA1l4Kx4lhS9H-hsZQD-Y-028g08JrpMHOk_bjH51c9ocPhq1jh099eCn-fsBxGoI?width=300&height=150&cropmode=none" align="middle">](https://account.microsoft.com/rewards)
 
 
 This is a script for Bing Rewards searches. You need to have [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40) and the extension [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc) installed
