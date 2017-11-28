@@ -1,8 +1,6 @@
 # Microsoft-Rewards-Macro
 [![Twitter](https://img.shields.io/twitter/follow/Darth4212.svg?style=social)](https://twitter.com/Darth4212)
 
-![<img src="https://mspoweruser.com/wp-content/uploads/2016/09/Microsoft-Rewards-featured-image.png" align="middle">](https://account.microsoft.com/rewards)
-
 
 This is a script for Bing Rewards searches. You need to have [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40) and the extension [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc) installed
 
@@ -25,9 +23,9 @@ To edit the search terms find any of the lines that say:
 
 `URL GOTO= http://www.bing.com/search?FORM=U312DF&PC=U312&q=Whatever+you+want+your+search+term+to+be`
 
-And change the word or words at the end. For spaces you will have to put a +
+To change the word or words at the end. For spaces you will have to put a `+`
 
-And to edit the amount of time between searches find 
+To edit the amount of time between searches find 
 
 `WAIT SECONDS= 4` 
 
