@@ -6,7 +6,6 @@ This is a script for Bing Rewards searches. You need to have [Google Chrome](htt
 
 [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR4)
 
-[<img src="https://github.com/Darth4212/Img-Paste/blob/master/download-ConvertImage%20(1).jpg?raw=true" align="center">](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40)
 
 [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc)
 
