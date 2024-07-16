@@ -1,4 +1,4 @@
-# Yeah so unless you are retarded you realize I have no and will not ever update this I made this in highschool and lost interest in this project long ago
+# Yeah so unless you are retarded you realize I have no will or want to ever update this I made this in highschool and lost interest in this project long ago
 
 # Microsoft-Rewards-Macro
 
