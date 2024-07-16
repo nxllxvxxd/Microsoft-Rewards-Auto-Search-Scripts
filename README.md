@@ -1,5 +1,6 @@
+# Yeah so unless you are retarded you realize I have no and will not ever update this I made this in highschool and lost interest in this project long ago
+
 # Microsoft-Rewards-Macro
-[![Twitter](https://img.shields.io/twitter/follow/Darth4212.svg?style=social)](https://twitter.com/Darth4212)
 
 
 This is a script for Bing Rewards searches. You need to have [Google Chrome](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214160&authkey=ADBIhYjgvXsMIR40) and the extension [iMacros](https://onedrive.live.com/download?cid=F0F86193D07177B0&resid=F0F86193D07177B0%214158&authkey=ANHtiBdVYcfyYlc) installed
